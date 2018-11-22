@@ -8,7 +8,7 @@ Additional feature is typing "–" and "—", unavailable in Polish keyboard lay
 - "—": <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>SHIFT</kbd> + <kbd>-</kbd>.
 
 ## How to use it?
-- Install AutoHotkey.
+- Install [AutoHotkey](https://www.autohotkey.com/).
 - Compile the script.
 - Run exe at logon by
   - moving it to autostart folder or
